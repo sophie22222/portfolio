@@ -6,6 +6,7 @@
     <q-page-container>
       <slot />
     </q-page-container>
+    <the-footer />
   </q-layout>
 </template>
 
